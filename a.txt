@@ -1,2 +1,4 @@
 print "This is written by Python syntax."
 dddddddd
+this is a file for python
+
